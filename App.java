@@ -45,7 +45,7 @@ class SpacedLogger implements Logger {
 public class App {
 
   public static void main(String[] args) {
-    // classname customname = new classname();
+    
     AsteriskLogger asteriskLogger = new AsteriskLogger();
     asteriskLogger.Log("Hello");
 
